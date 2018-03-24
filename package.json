@@ -1,0 +1,19 @@
+{
+  "name": "brave-dave",
+  "version": "1.0.0",
+  "description": "New app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qBraveDave/brave-dave.git"
+  },
+  "author": "BraveDave_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qBraveDave/brave-dave/issues"
+  },
+  "homepage": "https://github.com/qBraveDave/brave-dave#readme"
+}
